@@ -1,2 +1,1 @@
-cd C:\Users\Usuck\Downloads\pingbot
-python pingbot.py
+the commands are /ping replace ip here and /stop
