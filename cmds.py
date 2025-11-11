@@ -1,1 +1,3 @@
-the commands are /ping replace ip here and /stop
+the commands are /ping ip
+and /stop
+
